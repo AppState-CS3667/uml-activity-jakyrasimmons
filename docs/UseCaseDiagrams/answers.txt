@@ -1,0 +1,8 @@
+1. The primary actor is the shopper.
+2. The secondary actor is the employee.
+3. The use cases are verbs.
+4. The actors are nouns.
+5. The primary actor is primary because they initiate the interaction with self-checkout by scanning items.
+6. The secondary actor is secondary because they react to the interaction by verifying IDs or checking the cart for items.
+7. It extends scan items because the employee doesn't always have to check the verify IDs unless someone is buying something intended for a certain age.
+8. Scan Items includes Check Cart for Items because you have to scan the items taht are int he cart in order to checkout.
